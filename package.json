@@ -1,0 +1,23 @@
+{
+  "name": "macos-battery-percentage-cli",
+  "version": "1.0.0",
+  "description": "Gives the current battery percentage of your macos machine through a CLI",
+  "main": "./bin/index.js",
+  "bin": {
+    "battery-percent": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exoticchild/macos-battery-percentage-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exoticchild/macos-battery-percentage-cli/issues"
+  },
+  "homepage": "https://github.com/exoticchild/macos-battery-percentage-cli#readme"
+}
